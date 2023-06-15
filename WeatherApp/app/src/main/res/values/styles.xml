@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <style name="AppThemes" parent="Theme.AppCompat.Light.NoActionBar">
+     <item name="colorPrimary">#654333</item>
+     <item name="colorPrimaryDark">#654333</item>
+     <item name="colorAccent">@color/material_dynamic_secondary40</item>
+     <item name="android:textColor">#FFF</item>
+
+
+ </style>
+
+
+</resources>
